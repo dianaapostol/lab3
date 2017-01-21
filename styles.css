@@ -6,8 +6,8 @@ body
 }
 h1
 {
-	font: bold 1.5em "Mark One", Georgia, serif;
-	color:purple;
+	font: bold 1.5em "Marko One", Georgia, serif;
+	color: purple;
 	text-shadow: .1em .1em .2em lightslategray;
 }
 p,dl
